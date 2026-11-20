@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "mode": "weather",
+  "wifi": {
+    "ssid": "YOUR_WIFI_SSID",
+    "password": "YOUR_WIFI_PASSWORD",
+    "ntp_server": "pool.ntp.org"
+  },
+  "location": {
+    "name": "Киев",
+    "latitude": 50.45,
+    "longitude": 30.523,
+    "timezone": "Europe/Kyiv",
+    "posix_timezone": "EET-2EEST,M3.5.0/3,M10.5.0/4"
+  },
+  "display": {
+    "brightness": 100,
+    "large_text": false
+  },
+  "weather": {
+    "update_seconds": 900,
+    "request_timeout_ms": 15000,
+    "stale_after_seconds": 21600,
+    "cache_write_seconds": 1800
+  }
+}

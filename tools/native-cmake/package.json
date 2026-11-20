@@ -1,0 +1,7 @@
+{
+  "name": "tool-cmake",
+  "version": "3.30.5",
+  "description": "Native CMake selected by UV for POSIX build hosts",
+  "license": "BSD-3-Clause",
+  "system": ["darwin_arm64", "darwin_x86_64", "linux_x86_64", "linux_aarch64"]
+}

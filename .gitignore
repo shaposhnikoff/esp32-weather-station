@@ -1,0 +1,26 @@
+.pio/
+.tools/
+.venv/
+build*/
+dist/
+managed_components/
+sdkconfig
+sdkconfig.old
+sdkconfig.weather
+sdkconfig.waveshare-*
+config.json
+**/config.json
+*.cache
+.DS_Store
+*.bin
+*.elf
+*.map
+*.bmp
+*.log
+*.cache.*
+.env
+.env.*
+__pycache__/
+*.pyc
+# Local reference image; published screenshots live under docs/screenshots/.
+/*.png

@@ -30,8 +30,8 @@ uv tool install --python 3.12 platformio
 Дальнейшие команды выполняй из корня проекта, в одном терминале:
 
 ```sh
-git clone git@github.com:shaposhnikoff/ESP32_S3_Weather_station_display.git
-cd ESP32_S3_Weather_station_display
+git clone git@github.com:shaposhnikoff/esp32-weather-station.git
+cd esp32-weather-station
 export PLATFORMIO_CORE_DIR="$HOME/.platformio"
 export PATH="$PLATFORMIO_CORE_DIR/penv/bin:$PATH"
 

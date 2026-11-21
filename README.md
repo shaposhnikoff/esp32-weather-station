@@ -68,8 +68,8 @@ Command Line Tools и SDL2. CMake `3.30.5`, Ninja `1.11.1.3` и Python `3.12`
 закреплённые зависимости; пароль Wi-Fi для неё не нужен.
 
 ```sh
-git clone git@github.com:shaposhnikoff/ESP32_S3_Weather_station_display.git
-cd ESP32_S3_Weather_station_display
+git clone git@github.com:shaposhnikoff/esp32-weather-station.git
+cd esp32-weather-station
 
 # Для стандартной установки PlatformIO Core:
 export PATH="$HOME/.platformio/penv/bin:$PATH"
